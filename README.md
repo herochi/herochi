@@ -1,11 +1,14 @@
 # Hello, my name is Ricardo Chi
 ![GitHub Followers](https://img.shields.io/github/followers/herochi?style=social)
 
-I'm a professional developer
+I have an engineering degree in computer systems, specializing in emerging technologies.
+
+My strength in software development is the backend, I love to analyze business logic before writing code.
+
+I am a person passionate about software development, who is always in constant learning.
 
 I Currently work as FullStack in 3Code
 
-Passionate about software development
  
 ## Skills:
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
