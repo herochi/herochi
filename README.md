@@ -7,7 +7,7 @@ My strength in software development is the backend, I love to analyze business l
 
 I am a person passionate about software development, who is always in constant learning.
 
-I Currently work as FullStack in 3Code
+ I Currently work as Project Manager in 3Code
 
  
 ## Skills:
