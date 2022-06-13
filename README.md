@@ -7,7 +7,7 @@ My strength in software development is the backend, I love to analyze business l
 
 I am a person passionate about software development, who is always in constant learning.
 
- I Currently work as Back-end Golang developer at Boletia
+ I Currently work as Back-end Golang developer at Kiban
 
  
 ## Skills:
