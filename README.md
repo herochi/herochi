@@ -5,7 +5,7 @@ I have an engineering degree in computer systems, specializing in emerging techn
 
 My strength in software development is the backend, I love to analyze business logic before writing code.
 
-I am a person passionate about software development, who is always in constant learning.
+I'm a person passionate about software development, who is always in constant learning.
 
  I Currently work as Back-end Golang developer at Kiban
 
