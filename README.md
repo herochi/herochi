@@ -1,16 +1,15 @@
-# Hello, my name is Ricardo Chi
+# Hello, my name is Ricardo Chi but my nick name is Hero
+[![Linkedin Badge](https://img.shields.io/badge/-ricardochi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-emmanuel-chi-flores-b11412211/)](https://www.linkedin.com/in/ricardo-emmanuel-chi-flores-b11412211/)
+
 ![GitHub Followers](https://img.shields.io/github/followers/herochi?style=social)
 
-I have an engineering degree in computer systems, specializing in emerging technologies.
-
-My strength in software development is the backend, I love to analyze business logic before writing code.
-
-I'm a person passionate about software development, who is always in constant learning.
-
- I Currently work as Back-end Golang developer at Kiban
+I have an engineering degree in computer systems.
+I'm a Backend Developer, I love to analyze business logic before writing code.
+I'm a person passionate about software development, who is always in constant learning. Everyday is a good day to learn something new!
+I Currently work as Back-end Golang developer at Kiban
 
  
-## Skills:
+## Stack: this are some technologies that i have working on.
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
