@@ -11,13 +11,10 @@ I Currently work as Back-end Golang developer at Kiban
 <p>
   <a href="https://cloud.google.com/" ><img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" /></a>
   <a href="https://www.mongodb.com/es" ><img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-flat-square&logo=mongodb&logoColor=white&labelColor=101010" /></a>
-  <a href="https://golang.google.cn/" ><img alt="Golang" src="https://img.shields.io/badge/Go-007396?style=flat-square&logo=go&logoColor=white&labelColor=202020" /></a>
+  <a href="https://golang.google.cn/" ><img alt="Golang" src="https://img.shields.io/badge/Golang-007396?style=flat-square&logo=go&logoColor=white&labelColor=202020" /></a>
 </p>
 
 
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![GOLANG](https://img.shields.io/badge/Golang-007396?style=for-the-badge&logo=go&logoColor=white&labelColor=202020)]()
 
 ## Stack: this are some technologies that i had working on.
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
