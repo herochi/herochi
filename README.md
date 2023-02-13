@@ -7,7 +7,6 @@ Is the combination of Hero (my esport name) and  Chi (My last name).
 
 
 I have an engineering degree in computer systems.
-I'm a Backend Developer, I love to analyze business logic before writing code.
 I'm a person passionate about software development, who is always in constant learning. Everyday is a good day to learn something new!
 I Currently work as Back-end Golang developer at Kiban
 
@@ -17,6 +16,7 @@ I Currently work as Back-end Golang developer at Kiban
   <a href="https://www.mongodb.com/es" ><img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-flat-square&logo=mongodb&logoColor=white" /></a>
   <a href="https://golang.google.cn/" ><img alt="Golang" src="https://img.shields.io/badge/Golang-007396?style=flat-square&logo=go&logoColor=white" /></a>
   <a href="https://bitbucket.org/" ><img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-1a73e6?style=flat-square&logo=bitbucket&logoColor=white" /></a>
+    <a href="https://www.docker.com/" ><img alt="Docker" src="https://img.shields.io/badge/-Docker-1a73e6?style=flat-square&logo=docker&logoColor=white" /></a>
 </p>
 
 
