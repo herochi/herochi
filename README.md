@@ -19,7 +19,7 @@ I Currently work as Back-end Golang developer at Kiban
 ## Stack:
 [![GOLANG](https://img.shields.io/badge/Golang-007396?style=for-the-badge&logo=go&logoColor=white&labelColor=202020)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![GoogleCloud](https://img.shields.io/badge/-Google_Cloud_Platform-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![GoogleCloud](https://img.shields.io/badge/-Google_Cloud_Platform-47A248?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=101010)]()
 
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
