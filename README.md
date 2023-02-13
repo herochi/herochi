@@ -29,3 +29,4 @@ I Currently work as Back-end Golang developer at Kiban
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-232F3E?style=for-the-badge&logo=react&logoColor=white&labelColor=202020)]()
 [![Angular](https://img.shields.io/badge/Angular-232F3E?style=for-the-badge&logo=angular&logoColor=red&labelColor=202020)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=red&labelColor=202020)]()
