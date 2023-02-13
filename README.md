@@ -2,7 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ricardochi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-emmanuel-chi-flores-b11412211/)](https://www.linkedin.com/in/ricardo-emmanuel-chi-flores-b11412211/)
 ![GitHub Followers](https://img.shields.io/github/followers/herochi?style=social)
 
-My Name is <b>Ricardo Chi</b> and my nick name when i was an esport player was <b>Hero</b> therefore my developer name is <b>herochi</b>, because is the combination of Chi (My last name) and Hero (my esport name) 
+My Name is <b>Ricardo Chi</b> but my developer nick name is <b>Herochi</b> because when i was an esport player my nick name was <b>Hero</b>. 
+Is the combination of Chi (My last name) and Hero (my esport name) 
 
 
 I have an engineering degree in computer systems.
