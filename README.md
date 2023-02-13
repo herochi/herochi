@@ -2,13 +2,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ricardochi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-emmanuel-chi-flores-b11412211/)](https://www.linkedin.com/in/ricardo-emmanuel-chi-flores-b11412211/)
 ![GitHub Followers](https://img.shields.io/github/followers/herochi?style=social)
 
-My Name is <b>Ricardo Chi</b> but my developer nick name is <b>Herochi</b> because when i was an esport player my nick name was <b>Hero</b>. 
-Is the combination of Hero (my esport name) and  Chi (My last name).
-
+My Name is <b>Ricardo Chi</b> but my developer nick name is <b>Herochi</b> because when i was an esport player my nick name was <b>Hero</b>.
 
 I have an engineering degree in computer systems.
 
 I'm a person passionate about software development, who is always in constant learning. Everyday is a good day to learn something new!
+
+I've worked like Fullstack, FrontEnd and Backend developer, and in some cases like Project Manajer. I Personally prefer to work as a backend, becasuse I love to analiye bussines logic before write code.
+
+My Favorite language is Go.
 
 I Currently work as Back-end Golang developer at Kiban
 
