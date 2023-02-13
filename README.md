@@ -29,9 +29,6 @@ I Currently work as Back-end Golang developer at Kiban
   <img src="https://user-images.githubusercontent.com/9059670/215300675-9dae9f85-f51f-4ba4-83df-b1712f149846.gif" width="55%" align="right"/>
 </a>
 
-![Stats Overview](https://github.com/herochi/github-stats-transparent/blob/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/herochi/github-stats-transparent/output/generated/languages.svg)
-
 Thanks for coming by, you are: ![](https://visitor-badge.glitch.me/badge?page_id=herochi&left_color=purple&right_color=purple)
 
 
