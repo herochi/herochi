@@ -7,7 +7,9 @@ Is the combination of Hero (my esport name) and  Chi (My last name).
 
 
 I have an engineering degree in computer systems.
+
 I'm a person passionate about software development, who is always in constant learning. Everyday is a good day to learn something new!
+
 I Currently work as Back-end Golang developer at Kiban
 
 <h3>  I currently use : </h3>
@@ -34,3 +36,4 @@ I Currently work as Back-end Golang developer at Kiban
 [![React](https://img.shields.io/badge/React-232F3E?style=for-the-badge&logo=react&logoColor=white&labelColor=202020)]()
 [![Angular](https://img.shields.io/badge/Angular-232F3E?style=for-the-badge&logo=angular&logoColor=red&labelColor=202020)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=red&labelColor=202020)]()
+[![Docker](https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=blue&labelColor=202020)]()
