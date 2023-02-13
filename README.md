@@ -3,7 +3,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/herochi?style=social)
 
 My Name is <b>Ricardo Chi</b> but my developer nick name is <b>Herochi</b> because when i was an esport player my nick name was <b>Hero</b>. 
-Is the combination of Chi (My last name) and Hero (my esport name) 
+Is the combination of Hero (my esport name) and  Chi (My last name).
 
 
 I have an engineering degree in computer systems.
