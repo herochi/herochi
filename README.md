@@ -1,4 +1,4 @@
-# Hello!
+# Hello! I'm Herochi
 [![Linkedin Badge](https://img.shields.io/badge/-ricardochi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-emmanuel-chi-flores-b11412211/)](https://www.linkedin.com/in/ricardo-emmanuel-chi-flores-b11412211/)
 ![GitHub Followers](https://img.shields.io/github/followers/herochi?style=social)
 
@@ -23,6 +23,16 @@ I Currently work as Back-end Golang developer at Kiban
     <a href="https://www.docker.com/" ><img alt="Docker" src="https://img.shields.io/badge/-Docker-1a73e6?style=flat-square&logo=docker&logoColor=white" /></a>
 </p>
 
+<h3> 📊 My Github Stats : </h3>
+
+<a href="https://kodda.mx">
+  <img src="https://user-images.githubusercontent.com/9059670/215300675-9dae9f85-f51f-4ba4-83df-b1712f149846.gif" width="55%" align="right"/>
+</a>
+
+![Stats Overview](https://github.com/MikeAlvarado/github-stats-transparent/blob/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/MikeAlvarado/github-stats-transparent/output/generated/languages.svg)
+
+Thanks for coming by, you are: ![](https://visitor-badge.glitch.me/badge?page_id=mikealvaradol&left_color=purple&right_color=purple)
 
 
 ## Stack:
