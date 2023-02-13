@@ -25,7 +25,7 @@ I Currently work as Back-end Golang developer at Kiban
 
 <h3> 📊 My Github Stats : </h3>
 
-<a href="https://kodda.mx">
+<a href="https://www.kiban.com/">
   <img src="https://user-images.githubusercontent.com/9059670/215300675-9dae9f85-f51f-4ba4-83df-b1712f149846.gif" width="55%" align="right"/>
 </a>
 
