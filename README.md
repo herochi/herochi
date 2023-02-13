@@ -2,6 +2,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ricardochi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-emmanuel-chi-flores-b11412211/)](https://www.linkedin.com/in/ricardo-emmanuel-chi-flores-b11412211/)
 ![GitHub Followers](https://img.shields.io/github/followers/herochi?style=social)
 
+My Name is <b>Ricardo Chi</b> and my nick name when i was an esport player was <b>Hero</b> therefore my developer name is <b>herochi</b>, because is the combination of Chi (My last name) and Hero (my esport name) 
+
+
 I have an engineering degree in computer systems.
 I'm a Backend Developer, I love to analyze business logic before writing code.
 I'm a person passionate about software development, who is always in constant learning. Everyday is a good day to learn something new!
