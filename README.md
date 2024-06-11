@@ -12,7 +12,7 @@ I've worked like Fullstack, FrontEnd and Backend developer, and in some cases li
 
 My Favorite language is Go.
 
-I Currently work as Back-end Golang developer at Kiban
+I Currently work as Back-end Golang developer at Boletia
 
 <h3>  I currently use : </h3>
 <p>
