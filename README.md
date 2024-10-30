@@ -10,13 +10,13 @@ I'm a person passionate about software development, who is always in constant le
 
 I've worked like Fullstack, FrontEnd, Backend developer and Project Manager.
 
-I Currently work as Backend developer at Boletia
+I Currently work as Backend developer at <b><a href="https://boletia.com/" >Boletia</a></b>
 
-<h3>  I currently use : </h3>
+<h3>  Currently work with: </h3>
 <p>
   <a href="https://golang.google.cn/" ><img alt="Golang" src="https://img.shields.io/badge/Golang-007396?style=flat-square&logo=go&logoColor=white" /></a>
   <a href="https://aws.amazon.com/" ><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" /></a>
-  <a href="https://www.postgresql.org/" ><img alt="Postgresql" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/" ><img alt="Postgresql" src="https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white" /></a>
   <a href="https://www.docker.com/" ><img alt="Docker" src="https://img.shields.io/badge/-Docker-1a73e6?style=flat-square&logo=docker&logoColor=white" /></a>
 </p>
 
