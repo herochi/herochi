@@ -18,11 +18,11 @@ I Currently work as Backend developer at <b><a href="https://boletia.com/" >Bole
   <a href="https://www.docker.com/" ><img alt="Docker" src="https://img.shields.io/badge/-Docker-1a73e6?style=flat-square&logo=docker&logoColor=white" /></a>
 </p>
 
-<h3> 📊 My Github Stats : </h3>
+## 📊 My GitHub Stats:
 
-<a href="https://www.kiban.com/">
-  <img src="https://user-images.githubusercontent.com/9059670/215300675-9dae9f85-f51f-4ba4-83df-b1712f149846.gif" width="55%" align="right"/>
-</a>
+![Herochi's GitHub stats](https://github-readme-stats.vercel.app/api?username=herochi&show_icons=true&theme=radical&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herochi&layout=compact&theme=radical)](https://github.com/herochi)
 
 Thanks for coming by, you the visit number:  
 [![Profile views](https://komarev.com/ghpvc/?username=herochi&color=blueviolet&style=flat-square)](https://github.com/herochi)
