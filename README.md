@@ -24,7 +24,8 @@ I Currently work as Backend developer at <b><a href="https://boletia.com/" >Bole
   <img src="https://user-images.githubusercontent.com/9059670/215300675-9dae9f85-f51f-4ba4-83df-b1712f149846.gif" width="55%" align="right"/>
 </a>
 
-Thanks for coming by, you are: ![](https://visitor-badge.glitch.me/badge?page_id=herochi&left_color=purple&right_color=purple)
+Thanks for coming by, you the visit number:  
+[![Profile views](https://komarev.com/ghpvc/?username=herochi&color=blueviolet&style=flat-square)](https://github.com/herochi)
 
 
 ## Stack:
