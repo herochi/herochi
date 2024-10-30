@@ -28,17 +28,30 @@ Thanks for coming by, you the visit number:
 [![Profile views](https://komarev.com/ghpvc/?username=herochi&color=blueviolet&style=flat-square)](https://github.com/herochi)
 
 
-## Stack:
-[![GOLANG](https://img.shields.io/badge/Golang-007396?style=for-the-badge&logo=go&logoColor=white&labelColor=202020)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![GoogleCloud](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=101010)]()
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-4479A1?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![React](https://img.shields.io/badge/React-232F3E?style=for-the-badge&logo=react&logoColor=white&labelColor=202020)]()
-[![Angular](https://img.shields.io/badge/Angular-232F3E?style=for-the-badge&logo=angular&logoColor=red&labelColor=202020)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=red&labelColor=202020)]()
-[![Docker](https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=blue&labelColor=202020)]()
+## Stack
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://boletia.com/">
+        <img src="https://user-images.githubusercontent.com/9059670/215300675-9dae9f85-f51f-4ba4-83df-b1712f149846.gif" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <!-- Stack de tecnologías -->
+      [![GOLANG](https://img.shields.io/badge/Golang-007396?style=for-the-badge&logo=go&logoColor=white&labelColor=202020)]()
+      [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+      [![GoogleCloud](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=101010)]()
+      [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+      [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+      [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+      [![Python](https://img.shields.io/badge/Python-4479A1?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+      [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)]()
+      [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+      [![React](https://img.shields.io/badge/React-232F3E?style=for-the-badge&logo=react&logoColor=white&labelColor=202020)]()
+      [![Angular](https://img.shields.io/badge/Angular-232F3E?style=for-the-badge&logo=angular&logoColor=red&labelColor=202020)]()
+      [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=red&labelColor=202020)]()
+      [![Docker](https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=blue&labelColor=202020)]()
+    </td>
+  </tr>
+</table>
