@@ -2,25 +2,22 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ricardochi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-emmanuel-chi-flores-b11412211/)](https://www.linkedin.com/in/ricardo-emmanuel-chi-flores-b11412211/)
 ![GitHub Followers](https://img.shields.io/github/followers/herochi?style=social)
 
-My Name is <b>Ricardo Chi</b> but my developer nick name is <b>Herochi</b> because when i was an esport player my nick name was <b>Hero</b>.
+My i'm <b>Ricardo Chi</b>
 
 I have an engineering degree in computer systems.
 
-I'm a person passionate about software development, who is always in constant learning. Everyday is a good day to learn something new!
+I'm a person passionate about software development, who is always in constant learning.
 
-I've worked like Fullstack, FrontEnd and Backend developer, and in some cases like Project Manajer. I Personally prefer to work as a backend, becasuse I love to analiye bussines logic before write code.
+I've worked like Fullstack, FrontEnd, Backend developer and Project Manager.
 
-My Favorite language is Go.
-
-I Currently work as Back-end Golang developer at Boletia
+I Currently work as Backend developer at Boletia
 
 <h3>  I currently use : </h3>
 <p>
-  <a href="https://cloud.google.com/" ><img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" /></a>
-  <a href="https://www.mongodb.com/es" ><img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-flat-square&logo=mongodb&logoColor=white" /></a>
   <a href="https://golang.google.cn/" ><img alt="Golang" src="https://img.shields.io/badge/Golang-007396?style=flat-square&logo=go&logoColor=white" /></a>
-  <a href="https://bitbucket.org/" ><img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-1a73e6?style=flat-square&logo=bitbucket&logoColor=white" /></a>
-    <a href="https://www.docker.com/" ><img alt="Docker" src="https://img.shields.io/badge/-Docker-1a73e6?style=flat-square&logo=docker&logoColor=white" /></a>
+  <a href="https://aws.amazon.com/" ><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/" ><img alt="Postgresql" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="https://www.docker.com/" ><img alt="Docker" src="https://img.shields.io/badge/-Docker-1a73e6?style=flat-square&logo=docker&logoColor=white" /></a>
 </p>
 
 <h3> 📊 My Github Stats : </h3>
