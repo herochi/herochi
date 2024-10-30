@@ -30,13 +30,7 @@ Thanks for coming by, you the visit number:
 
 ## Stack
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    <a href="https://www.kiban.com/">
-      <img src="https://user-images.githubusercontent.com/9059670/215300675-9dae9f85-f51f-4ba4-83df-b1712f149846.gif" width="100%" />
-    </a>
-  </div>
-  
+<div style="display: flex; align-items: flex-start;"> 
   <div style="flex: 1;">
     <!-- Stack de tecnologías -->
     <p align="left">
@@ -55,5 +49,10 @@ Thanks for coming by, you the visit number:
       <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
       <a href="https://angular.io/"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
     </p>
+  </div>
+   <div style="flex: 1;">
+    <a href="https://www.kiban.com/">
+      <img src="https://user-images.githubusercontent.com/9059670/215300675-9dae9f85-f51f-4ba4-83df-b1712f149846.gif" width="100%" />
+    </a>
   </div>
 </div>
