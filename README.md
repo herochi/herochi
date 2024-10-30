@@ -51,7 +51,7 @@ Thanks for coming by, you the visit number:
     </p>
   </div>
    <div style="flex: 1;">
-    <a href="https://www.kiban.com/">
+    <a href="https://boletia.com/">
       <img src="https://user-images.githubusercontent.com/9059670/215300675-9dae9f85-f51f-4ba4-83df-b1712f149846.gif" width="100%" />
     </a>
   </div>
