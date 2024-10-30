@@ -2,8 +2,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ricardochi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-emmanuel-chi-flores-b11412211/)](https://www.linkedin.com/in/ricardo-emmanuel-chi-flores-b11412211/)
 ![GitHub Followers](https://img.shields.io/github/followers/herochi?style=social)
 
-My i'm <b>Ricardo Chi</b>
-
 I have an engineering degree in computer systems.
 
 I'm a person passionate about software development, who is always in constant learning.
