@@ -2,13 +2,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ricardochi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-emmanuel-chi-flores-b11412211/)](https://www.linkedin.com/in/ricardo-emmanuel-chi-flores-b11412211/)
 ![GitHub Followers](https://img.shields.io/github/followers/herochi?style=social)
 
-I have an engineering degree in computer systems.
+I hold a degree in Computer Systems Engineering, with a strong passion for software development and a commitment to continuous learning
 
-I'm a person passionate about software development, who is always in constant learning.
+With experience as a Fullstack, Frontend, Backend Developer, and Project Manager, I have developed a versatile skill set that allows me to tackle diverse technical challenges
 
-I've worked like Fullstack, FrontEnd, Backend developer and Project Manager.
-
-I Currently work as Backend developer at <b><a href="https://boletia.com/" >Boletia</a></b>
+Currently, I work as a Backend Developer at <b><a href="https://boletia.com/" >Boletia</a></b>, where I contribute to building scalable and efficient systems
 
 <h3>  Currently work with: </h3>
 <p>
