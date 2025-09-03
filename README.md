@@ -6,7 +6,7 @@ I hold a degree in Computer Systems Engineering, with a strong passion for softw
 
 With experience as a Fullstack, Frontend, Backend Developer, and Project Manager, I have developed a versatile skill set that allows me to tackle diverse technical challenges
 
-Currently, I work as a Backend Developer at <b><a href="https://boletia.com/" >Boletia</a></b>, where I contribute to building scalable and efficient systems
+Currently, I work as a Backend Developer at <b><a href="https://www.globant.com/" >Globant</a></b>, where I contribute to building scalable and efficient systems
 
 <h3>  Currently work with: </h3>
 <p>
