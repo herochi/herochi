@@ -1,5 +1,5 @@
 # Hello! I'm Herochi
-[![Linkedin Badge](https://img.shields.io/badge/-ricardochi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-emmanuel-chi-flores-b11412211/)](https://www.linkedin.com/in/ricardo-emmanuel-chi-flores-b11412211/)
+[![Linkedin Badge](https://img.shields.io/badge/-ricardochi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-emmanuel-chi-flores-b11412211/)](https://www.linkedin.com/in/ricardo-chi/)
 ![GitHub Followers](https://img.shields.io/github/followers/herochi?style=social)
 
 I hold a degree in Computer Systems Engineering, with a strong passion for software development and a commitment to continuous learning
